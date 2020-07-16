@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution h      [:montague][:hero][:status] = "dead"
-ere:
+  [:montague][:hero][:status] = "dead"
 
 
 
