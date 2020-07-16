@@ -20,8 +20,8 @@ def bonus
    }
   }
 
-  #code your solution h      [:montague][:hero][:status] = "dead"
-  epic_tragedy[:montague][:hero][:status] == "dead"
+  #code your solution       [:montague][:hero][:status] = "dead"
+  puts epic_tragedy[:montague][:hero][:status] = "dead"
 
 
 
